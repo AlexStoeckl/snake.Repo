@@ -1,1 +1,4 @@
 .metadata/*
+Snake/.settings/*
+Snake/.classpath
+Snake/.project
